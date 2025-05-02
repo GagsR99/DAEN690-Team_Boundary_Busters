@@ -8,3 +8,4 @@
 .qmd filter=lfs diff=lfs merge=lfs -text
 .ipynb filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
+C:/Users/gagan/OneDrive/Desktop/GMU/DAEN_690/DAEN690_Final_Project/DAEN690-Team_Boundary_Busters/U-Net/NDVI_Clipped/AOI_NDVI_multidate_stack.tif filter=lfs diff=lfs merge=lfs -text
